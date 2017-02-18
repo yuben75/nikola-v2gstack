@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="../Makefile" open="1" top="1" tabpos="9">
+		<Cursor position="151" topLine="0" />
+	</File>
+	<File name="../README.md" open="1" top="0" tabpos="8">
+		<Cursor position="18" topLine="0" />
+	</File>
+	<File name="../example/Makefile" open="0" top="0" tabpos="0">
+		<Cursor position="141" topLine="0" />
+	</File>
+	<File name="../example/client.c" open="0" top="0" tabpos="0">
+		<Cursor position="12714" topLine="393" />
+	</File>
+	<File name="../example/server.c" open="1" top="0" tabpos="7">
+		<Cursor position="326" topLine="525" />
+	</File>
+	<File name="../example/test.c" open="1" top="0" tabpos="2">
+		<Cursor position="6049" topLine="159" />
+	</File>
+	<File name="../example/timeprofiling.c" open="1" top="0" tabpos="6">
+		<Cursor position="452" topLine="0" />
+	</File>
+	<File name="../nikolav2g.h" open="1" top="0" tabpos="3">
+		<Cursor position="10" topLine="0" />
+	</File>
+	<File name="../sdp.c" open="1" top="0" tabpos="1">
+		<Cursor position="207" topLine="0" />
+	</File>
+	<File name="../session.c" open="1" top="0" tabpos="5">
+		<Cursor position="1215" topLine="47" />
+	</File>
+	<File name="../v2gconn.c" open="1" top="0" tabpos="4">
+		<Cursor position="43821" topLine="1317" />
+	</File>
+</CodeBlocks_layout_file>
